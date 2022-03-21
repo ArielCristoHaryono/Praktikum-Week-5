@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Praktikum 21 Maret 2022", "Praktikum 21 Maret 2022\Praktikum 21 Maret 2022.csproj", "{D1485C3F-2E69-4600-A59A-363377F396D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1485C3F-2E69-4600-A59A-363377F396D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1485C3F-2E69-4600-A59A-363377F396D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1485C3F-2E69-4600-A59A-363377F396D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1485C3F-2E69-4600-A59A-363377F396D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF679D21-083C-408E-9A33-83A34852F642}
+	EndGlobalSection
+EndGlobal
